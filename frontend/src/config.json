@@ -1,0 +1,5 @@
+{
+    "api" : {
+        "user":"http://localhost:3020/user/"
+    }
+}
