@@ -35,9 +35,23 @@ Respect was another core value that we prioritized in our software development p
 - Deployment: Smarth, Vatsal
 - Database: Vatsal, Kunal
 
-![MongoDb Collenctions](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/841ef92c-680c-4df5-a0e7-cc61f28fdffa)
-![ComponentDiagram](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/3c1c25fe-5b18-44e5-82cd-c0ba3ff8b7c3)
+## Architecture Diagram
+
 ![Application_Architecture](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/6a816128-5c33-41cf-80c7-85dfd63e2bcc)
+
+## MongoDb Collections
+
+![MongoDb Collenctions](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/841ef92c-680c-4df5-a0e7-cc61f28fdffa)
+
+## Component Diagram
+
+![ComponentDiagram](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/3c1c25fe-5b18-44e5-82cd-c0ba3ff8b7c3)
+
+## Use Case Diagram
+
+![UseCase](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/d4b9b1f2-f17f-4eb4-bcd2-7d21ccf38694)
+
+## AWS Screenshots
 
 <img width="1436" alt="Screenshot 2023-05-11 at 3 11 45 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/0a9e2c29-d9d7-4293-92de-358ffa38f53b">
 <img width="1436" alt="Screenshot 2023-05-11 at 3 12 04 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/0d4db756-26a2-44f5-a116-b19abefdd99b">
