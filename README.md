@@ -53,10 +53,13 @@ Respect was another core value that we prioritized in our software development p
 
 ## AWS Screenshots
 
-<img width="1436" alt="Screenshot 2023-05-11 at 3 11 45 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/0a9e2c29-d9d7-4293-92de-358ffa38f53b">
-<img width="1436" alt="Screenshot 2023-05-11 at 3 12 04 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/0d4db756-26a2-44f5-a116-b19abefdd99b">
-<img width="1436" alt="Screenshot 2023-05-11 at 3 12 17 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/8fe68363-5964-49d0-ba7b-6ed37592a749">
+### EC2 Instances 
 <img width="1436" alt="Screenshot 2023-05-11 at 3 26 25 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/bf70cc33-ef11-4ed6-9d22-3b75b584bc08">
+
+<img width="1436" alt="Screenshot 2023-05-11 at 3 12 04 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/0d4db756-26a2-44f5-a116-b19abefdd99b">
+
+<img width="1436" alt="Screenshot 2023-05-11 at 3 12 17 PM" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/8fe68363-5964-49d0-ba7b-6ed37592a749">
+
 
 
 
