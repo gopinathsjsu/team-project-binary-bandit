@@ -9,6 +9,14 @@
 
 Deployment : Amazon EC2 Autoscaled cluster with Load balancing- [Link](http://202-elb-280156766.us-east-1.elb.amazonaws.com/)
 
+## Abstract
+
+In response to the digital revolution, it is necessary to establish a digital footprint for gyms in the health and fitness industry. This allows gym-goers to conveniently access information and manage their fitness plans. The project "PlanetFitness.com" is an end-to-end gym membership management application for the PlanetFitness chain, with locations globally. The objective of this project is to develop and implement an online gym membership system that will replace the traditional methods of gym registration and scheduling. The conventional approach has several drawbacks, such as delays in processing memberships, inability to cross-verify bookings, and lack of a digital platform to manage reward programs. These shortcomings will be addressed with the introduction of the online platform.
+
+This web-based application is devised to manage all the fundamental information required to display the list of PlanetFitness locations worldwide, provide class schedules, services, amenities, and the reward program. This project aims to incorporate user-friendliness in various activities such as managing your gym rewards account, searching for gyms, booking classes, changing/canceling reservations, and more.
+
+The primary goal of any web-based project is to establish an interactive user interface that is user-friendly, and we aim to achieve this goal in this project. This project principally utilizes the MERN stack (MongoDB, Express.js, React.js, Node.js) and AWS services for an effective and efficient website. It encapsulates user-friendly design and functionality, allowing members to have a smooth and hassle-free gym membership management experience.
+
 ## XP Core Values Implemented
 
 ### Simplicity
