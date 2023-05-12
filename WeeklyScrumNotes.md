@@ -1,6 +1,6 @@
-# Team: The-Fantasticfour
+# Team: Binary Bandits
 
-## Hotel Booking Project Journal
+## Fitness Club Project Journal
 
 ## Week 1:
 
