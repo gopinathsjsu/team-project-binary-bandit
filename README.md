@@ -54,6 +54,8 @@ Respect was another core value that we prioritized in our software development p
 
 ** [Sprint Task Board & Burndown Chart](https://docs.google.com/spreadsheets/d/14TgvxSK7bX03bgM8Qgil8ss523ikIjATeAfZ7wX6DSI/edit?usp=sharing)
 
+[UiWireframes.pdf](https://github.com/gopinathsjsu/team-project-binary-bandit/files/11459432/UiWireframes.pdf)
+
 
 <img width="1128" alt="Burndown Chart" src="https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/91d80cc0-05ae-49b8-a5dc-29c15d5cb871">
 
