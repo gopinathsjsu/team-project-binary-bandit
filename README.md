@@ -37,6 +37,9 @@ Respect was another core value that we prioritized in our software development p
 - Deployment: Smarth, Vatsal
 - Database: Vatsal, Kunal
 
+## Scrum Meetings
+- Wednesday / Friday 10 AM-11:30 AM
+
 
 * [Sprint Task Board & Burndown Chart](https://docs.google.com/spreadsheets/d/14TgvxSK7bX03bgM8Qgil8ss523ikIjATeAfZ7wX6DSI/edit?usp=sharing)
 
