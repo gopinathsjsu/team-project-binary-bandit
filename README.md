@@ -52,6 +52,7 @@ Respect was another core value that we prioritized in our software development p
 
 ### Scrum Journal - [Sprint Task Board & Burndown Chart] (https://github.com/gopinathsjsu/team-project-binary-bandit/blob/main/WeeklyScrumNotes.md)
 
+### Scrum Journal [Scrum Journal](https://docs.google.com/spreadsheets/d/14TgvxSK7bX03bgM8Qgil8ss523ikIjATeAfZ7wX6DSI/edit?usp=sharing)
 
 ### Sprint Task Board & Burndown Chart [Sprint Task Board & Burndown Chart](https://docs.google.com/spreadsheets/d/14TgvxSK7bX03bgM8Qgil8ss523ikIjATeAfZ7wX6DSI/edit?usp=sharing)
 
