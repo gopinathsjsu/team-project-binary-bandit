@@ -37,6 +37,10 @@ Respect was another core value that we prioritized in our software development p
 - Deployment: Smarth, Vatsal
 - Database: Vatsal, Kunal
 
+
+* [Sprint Task Board & Burndown Chart](https://docs.google.com/spreadsheets/d/14TgvxSK7bX03bgM8Qgil8ss523ikIjATeAfZ7wX6DSI/edit?usp=sharing)
+
+
 ## Architecture Diagram
 
 ![Application_Architecture](https://github.com/gopinathsjsu/team-project-binary-bandit/assets/11047075/6a816128-5c33-41cf-80c7-85dfd63e2bcc)
