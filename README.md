@@ -44,6 +44,8 @@ Respect was another core value that we prioritized in our software development p
 - Back End: Rutvik, Kunal
 - Deployment: Smarth, Vatsal
 - Database: Vatsal, Kunal
+- Project documentation and Deployment diagrams: Smarth, Vatsal, Kunal, Rutvik
+
 
 ## Scrum Meetings & Meeting Board
 - Wednesday / Friday 10 AM-11:30 AM
