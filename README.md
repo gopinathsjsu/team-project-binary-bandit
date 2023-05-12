@@ -7,6 +7,8 @@
 - Smarth Arora
 - Vatsal Bhanderi
 
+Deployment : Amazon EC2 Autoscaled cluster with Load balancing- [Link](http://202-elb-280156766.us-east-1.elb.amazonaws.com/)
+
 ## XP Core Values Implemented
 
 ### Simplicity
