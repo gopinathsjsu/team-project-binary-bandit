@@ -47,9 +47,9 @@ Respect was another core value that we prioritized in our software development p
 - Project documentation and Deployment diagrams: Smarth, Vatsal, Kunal, Rutvik
 
 
-## Scrum Meetings & Meeting Board
+### Scrum Meetings & Meeting Board
 - Wednesday / Friday 10 AM-11:30 AM
-- 
+
 ### Scrum Journal - https://github.com/gopinathsjsu/team-project-binary-bandit/blob/main/WeeklyScrumNotes.md
 
 
