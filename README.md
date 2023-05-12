@@ -8,7 +8,7 @@
 - Vatsal Bhanderi
 
 
-### Github Repo Link - [Github Repo Link]([https://github.com/gopinathsjsu/team-project-binary-bandit/blob/main/WeeklyScrumNotes.md](https://github.com/gopinathsjsu/team-project-binary-bandit))
+### Github Repo Link - ([https://github.com/gopinathsjsu/team-project-binary-bandit/blob/main/WeeklyScrumNotes.md](https://github.com/gopinathsjsu/team-project-binary-bandit))
 
 Deployment : Amazon EC2 Autoscaled cluster with Load balancing - (http://202-elb-280156766.us-east-1.elb.amazonaws.com/)
 
